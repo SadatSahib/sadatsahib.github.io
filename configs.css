@@ -1,0 +1,56 @@
+:root {
+  --splash-logo: url("https://raw.githubusercontent.com/MOF1/cdn/main/MOF1_CSS_thief/img/logo_1.png");
+  --sidebar-logo: url("https://raw.githubusercontent.com/MOF1/cdn/main/MOF1_CSS_thief/img/krunker.png");
+  --spinner-url: url("https://raw.githubusercontent.com/MOF1/cdn/main/MOF1_CSS_thief/img/spinner.svg");
+  --blur-radius1: 20px;
+  --blur-radius2: 5px;
+
+  --primaryBg: #050505;
+  --subBg: #292e39;
+  --subBgM: #2a2f3a;
+  --subBgST: #292e394d;
+  --c_white: #dfdfdf;
+  --c_whiteST: #ffffffb3;
+  --accentColor: #ff99d8;
+  --accentColorST: #ff99d869;
+  --l-accentColor: #84a1ff;
+
+  --dirty: #757575;
+  --dirty-light: #a3a3a3;
+
+  --gradientColor1: #ff39de;
+  --gradientColor2: #b639ff;
+  --gradientColor3: #ff99d8;
+  --gradientColor4: #999dff;
+  --gradientColor5: #ffffff;
+
+  --purple: #ff99d8;
+  --purple-dark: #592bff;
+
+  --orange: #ff9ea2;
+  --orange-dark: #ff3943;
+
+  --orange2: #6797ff;
+  --orange2-dark: #2351b4;
+
+  --green: #8bc34a;
+  --green-dark: #458100;
+
+  --yellow: #ffeb3b;
+  --yellow-dark: #9b8b00;
+
+  /*Fonts*/
+  --mainFont: steradian;
+  --subFont: cirular;
+
+  /*Configs*/
+  --showAds: none;
+  --buttomBarHeight: 25px;
+
+  /*--showAds: block;
+  --buttomBarHeight: 132px;*/
+
+  /* Custom Config*/
+  --sidebarIconBgOnHover: #f7d6e6;
+  --sidebarIconColorOnHover: #ed78ad;
+}
